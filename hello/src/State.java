@@ -26,4 +26,4 @@ class district extends city
      obj.methodcity(); //calling sub class1 method
      obj.methoddistrict(); //calling sub class2 method
   }
-}
+} 
